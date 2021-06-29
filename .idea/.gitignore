@@ -7,3 +7,9 @@
 # Editor-based HTTP Client requests
 /httpRequests/
 /.idea/
+/misc.xml
+/modules.xml
+/inspectionProfiles/profiles_settings.xml
+/inspectionProfiles/Project_Default.xml
+/rumi-organizing-v1.iml
+/vcs.xml
