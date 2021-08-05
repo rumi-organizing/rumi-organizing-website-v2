@@ -574,6 +574,28 @@ a:active {
     }
 }
 
+/* Polaroid Image */
+.polaroid {
+    position: relative;
+}
+
+.polaroid img {
+    border: 10px solid #fff;
+    border-bottom: 45px solid #fff;
+    -webkit-box-shadow: 3px 3px 3px #000;
+    -moz-box-shadow: 3px 3px 3px #000;
+    box-shadow: 3px 3px 3px #000;
+}
+
+.polaroid p {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+    font: 400 18px/1 'Open Sans', cursive;
+    color: #333;
+}
+
 /* Hero Fullwidth */
 .hero-fullwidth {
     position: relative;
