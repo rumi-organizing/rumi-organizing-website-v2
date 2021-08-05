@@ -128,6 +128,10 @@ thead {
 
 }
 
+.blank-space {
+    min-height: 50vh;
+}
+
 /*** Table Styles **/
 
 .table-fill {
