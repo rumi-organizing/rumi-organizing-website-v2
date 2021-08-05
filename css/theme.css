@@ -132,6 +132,10 @@ thead {
     min-height: 50vh;
 }
 
+.blank-space-lg {
+    min-height: 75vh;
+}
+
 /*** Table Styles **/
 
 .table-fill {
