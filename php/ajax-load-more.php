@@ -27,12 +27,12 @@
 
 
                             <!-- Portfolio Item -->
-                            <div class="work-item tall" data-filter="branding">
-                                <a href="project-slides.html">
+                            <div class="work-item tall" data-filter="Organizing">
+
                                     <div class="portfolio-item">
                                         <div class="item-caption">
                                             <h4>RUMI Organizing</h4>
-                                            <p>Branding</p>
+                                            <p>Organizing</p>
                                         </div>
                                         <div class="item-image">
                                             <img alt="#" src="img/portfolio/tall/1h.jpg" />
@@ -43,7 +43,7 @@
 
                             <!-- Portfolio Item -->
                             <div class="work-item digital" data-filter="digital">
-                                <a href="project-slides.html">
+
                                     <div class="portfolio-item">
                                         <div class="item-caption">
                                             <h4>iWatch App</h4>
@@ -58,11 +58,11 @@
 
                             <!-- Portfolio Item -->
                             <div class="work-item digital" data-filter="digital">
-                                <a href="project-slides.html">
+
                                     <div class="portfolio-item">
                                         <div class="item-caption">
-                                            <h4>Wunder Hero</h4>
-                                            <p>Branding</p>
+                                            <h4>RUMI</h4>
+                                            <p>Organizing</p>
                                         </div>
                                         <div class="item-image">
                                             <img alt="#" src="img/portfolio/square/3.jpg" />
@@ -73,11 +73,11 @@
 
                             <!-- Portfolio Item -->
                             <div class="work-item digital" data-filter="digital">
-                                <a href="project-slides.html">
+
                                     <div class="portfolio-item">
                                         <div class="item-caption">
-                                            <h4>Thom Business Cards</h4>
-                                            <p>Branding &amp; Digital</p>
+                                            <h4>RUMI</h4>
+                                            <p>Organizing</p>
                                         </div>
                                         <div class="item-image">
                                             <img alt="#" src="img/portfolio/square/4.jpg" />
@@ -88,11 +88,11 @@
 
                             <!-- Portfolio Item -->
                             <div class="work-item digital" data-filter="digital">
-                                <a href="project-slides.html">
+
                                     <div class="portfolio-item">
                                         <div class="item-caption">
-                                            <h4>Label Mockup</h4>
-                                            <p>Print Category</p>
+                                            <h4>RUMI</h4>
+                                            <p>Organizing</p>
                                         </div>
                                         <div class="item-image">
                                             <img alt="#" src="img/portfolio/square/5.jpg" />
@@ -102,12 +102,12 @@
                             </div>
 
                             <!-- Portfolio Item -->
-                            <div class="work-item wide-tall branding print" data-filter="branding print">
-                                <a href="project-slides.html">
+                            <div class="work-item wide-tall Organizing print" data-filter="Organizing print">
+
                                     <div class="portfolio-item">
                                         <div class="item-caption">
                                             <h4>Letter Mockup</h4>
-                                            <p>Branding, Print</p>
+                                            <p>Organizing, Declutter</p>
                                         </div>
                                         <div class="item-image">
                                             <img alt="#" src="img/portfolio/square/6.jpg" />
@@ -118,11 +118,11 @@
 
                             <!-- Portfolio Item -->
                             <div class="work-item wide digital print" data-filter="digital print">
-                                <a href="project-slides.html">
+
                                     <div class="portfolio-item">
                                         <div class="item-caption">
                                             <h4>Boxed Cards</h4>
-                                            <p>Digital, Print</p>
+                                            <p>Digital, Declutter</p>
                                         </div>
                                         <div class="item-image">
                                             <img alt="#" src="img/portfolio/wide/1w.jpg" />
@@ -132,12 +132,12 @@
                             </div>
 
                             <!-- Portfolio Item -->
-                            <div class="work-item branding print" data-filter="branding print">
-                                <a href="project-slides.html">
+                            <div class="work-item Organizing print" data-filter="Organizing print">
+
                                     <div class="portfolio-item">
                                         <div class="item-caption">
                                             <h4>Thanks Letter</h4>
-                                            <p>Branding, Print</p>
+                                            <p>Organizing, Declutter</p>
                                         </div>
                                         <div class="item-image">
                                             <img alt="product" src="img/portfolio/square/8.jpg" />
@@ -147,12 +147,12 @@
                             </div>
 
                             <!-- Portfolio Item -->
-                            <div class="work-item branding print" data-filter="branding print">
-                                <a href="project-slides.html">
+                            <div class="work-item Organizing print" data-filter="Organizing print">
+
                                     <div class="portfolio-item">
                                         <div class="item-caption">
                                             <h4>Cards in a Box</h4>
-                                            <p>Branding, Print</p>
+                                            <p>Organizing, Declutter</p>
                                         </div>
                                         <div class="item-image">
                                             <img alt="product" src="img/portfolio/square/7.jpg" />
@@ -163,11 +163,11 @@
 
                             <!-- Portfolio Item -->
                             <div class="work-item wide digital" data-filter="digital">
-                                <a href="project-slides.html">
+
                                     <div class="portfolio-item">
                                         <div class="item-caption">
                                             <h4>Flying Mac</h4>
-                                            <p>Branding</p>
+                                            <p>Organizing</p>
                                         </div>
                                         <div class="item-image">
                                             <img alt="product" src="img/portfolio/wide/2w.jpg" />
